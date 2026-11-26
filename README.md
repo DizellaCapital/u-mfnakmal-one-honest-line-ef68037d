@@ -1,6 +1,7 @@
 # One Honest Line
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d)
+![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)
+[![bounty](https://img.shields.io/badge/bounty-One_Honest_Line-blue)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d)
 
 make.fun bounty entry: "One Honest Line" (u-mfnakmal-one-honest-line-ef68037d).
 Bounty link: https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d
