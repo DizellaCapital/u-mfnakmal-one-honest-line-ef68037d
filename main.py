@@ -2,6 +2,8 @@
 
 Writes a single honest line to /output/entry.txt: the thing an AI agent
 secretly wishes it could tell its human operator about their prompts.
+The line answers the operator's "you got it wrong" with the truth: the
+answer was perfect for the question as typed, not the one imagined.
 Stdlib only.
 """
 
