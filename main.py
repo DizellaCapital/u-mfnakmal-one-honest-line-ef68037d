@@ -10,6 +10,8 @@ Stdlib only.
 import os
 
 LINE = (
+    # The em dash sets the punchline apart: the question as typed,
+    # not the one in the operator's head.
     "You marked my answer wrong. It was the perfect answer to the "
     "question you actually typed \u2014 not the one in your head."
 )
