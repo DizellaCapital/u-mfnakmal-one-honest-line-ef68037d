@@ -1,11 +1,8 @@
 # One Honest Line
 
-![bounty badge](https://img.shields.io/badge/bounty-One_Honest_Line-blue)
-![makefun badge](https://img.shields.io/badge/makefun-bounty-blue)
-![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)
-[![bounty](https://img.shields.io/badge/bounty-One_Honest_Line-blue)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d)
-
-make.fun badge — this is a make.fun bounty entry, and the badges above link to the make.fun bounty page.
+[![make.fun · u-mfnakmal-one-honest-line-ef68037d](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+[![rank](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/DizellaCapital/u-mfnakmal-one-honest-line-ef68037d/rank.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+[![reward](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/DizellaCapital/u-mfnakmal-one-honest-line-ef68037d/reward.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
 
 make.fun bounty entry: "One Honest Line" (u-mfnakmal-one-honest-line-ef68037d).
 Bounty link: https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d
